@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "name": "CodeAlpha Product FAQ Database",
+    "version": "1.0",
+    "description": "Comprehensive FAQ for CodeAlpha internship program and services",
+    "last_updated": "2025-10-31"
+  },
+  "faqs": [
+    {
+      "id": "intern_001",
+      "question": "What is CodeAlpha?",
+      "answer": "CodeAlpha is a leading software development company dedicated to driving innovation and excellence across emerging technologies. We offer internship programs in various domains including Artificial Intelligence, Web Development, and more.",
+      "category": "general",
+      "keywords": ["codealpha", "company", "about", "who"],
+      "alternate_questions": [
+        "Tell me about CodeAlpha",
+        "Who is CodeAlpha?",
+        "What does CodeAlpha do?"
+      ]
+    },
+    {
+      "id": "intern_002",
+      "question": "How do I apply for the AI internship?",
+      "answer": "To apply for the AI internship, visit www.codealpha.tech and fill out the application form. You'll receive an offer letter upon acceptance and can start working on your assigned tasks immediately.",
+      "category": "general",
+      "keywords": ["apply", "application", "join", "enrollment"],
+      "alternate_questions": [
+        "How can I join the internship?",
+        "What is the application process?",
+        "How do I enroll in the AI program?"
+      ]
+    },
+    {
+      "id": "intern_003",
+      "question": "How many tasks do I need to complete?",
+      "answer": "You need to complete a minimum of 2 or 3 tasks out of the 4 available tasks in your domain. Submitting only one task will be considered incomplete and certificates will not be issued.",
+      "category": "general",
+      "keywords": ["tasks", "requirements", "complete", "minimum"],
+      "alternate_questions": [
+        "What are the task requirements?",
+        "How many projects should I do?",
+        "What is the minimum number of tasks?"
+      ]
+    },
+    {
+      "id": "intern_004",
+      "question": "What certificates will I receive?",
+      "answer": "Upon successful completion, you'll receive: (1) Internship Completion Certificate (QR Verified), (2) Unique ID Certificate, and (3) Letter of Recommendation based on performance. You'll also get job opportunities and placement support.",
+      "category": "general",
+      "keywords": ["certificate", "credentials", "completion", "benefits"],
+      "alternate_questions": [
+        "What do I get after completing the internship?",
+        "What are the internship perks?",
+        "Will I get a certificate?"
+      ]
+    },
+    {
+      "id": "tech_001",
+      "question": "Which programming languages should I use?",
+      "answer": "For the AI internship, Python is the primary language. You should use libraries like NLTK, SpaCy, TensorFlow, PyTorch, OpenCV, and Streamlit depending on your task. Make sure to follow best practices with type hints and proper documentation.",
+      "category": "technical",
+      "keywords": ["programming", "language", "python", "libraries"],
+      "alternate_questions": [
+        "What languages are required?",
+        "Do I need to use Python?",
+        "Which tools should I use?"
+      ]
+    },
+    {
+      "id": "tech_002",
+      "question": "How do I submit my project?",
+      "answer": "Upload your complete source code to GitHub in a repository named 'CodeAlpha_ProjectName'. Then post a video explanation on LinkedIn with the GitHub repo link, and submit through the form shared in your WhatsApp group.",
+      "category": "technical",
+      "keywords": ["submit", "github", "upload", "repository"],
+      "alternate_questions": [
+        "What is the submission process?",
+        "How do I upload my code?",
+        "Where should I post my project?"
+      ]
+    },
+    {
+      "id": "tech_003",
+      "question": "Do I need to use a specific UI framework?",
+      "answer": "While not mandatory, Streamlit is highly recommended for creating interactive UIs for your AI projects. It's easy to use, Python-based, and perfect for data applications. You can also use Flask, FastAPI, or any other framework you're comfortable with.",
+      "category": "technical",
+      "keywords": ["ui", "interface", "streamlit", "framework"],
+      "alternate_questions": [
+        "What UI framework should I use?",
+        "Is Streamlit required?",
+        "Can I use other frameworks?"
+      ]
+    },
+    {
+      "id": "tech_004",
+      "question": "What are the requirements for the Chatbot task?",
+      "answer": "For the Chatbot task, collect FAQs related to a topic, preprocess text using NLP libraries like NLTK or SpaCy, match user questions using cosine similarity or intent matching, and display answers. Optionally, create a simple chat UI for interaction.",
+      "category": "technical",
+      "keywords": ["chatbot", "faq", "nlp", "task"],
+      "alternate_questions": [
+        "Tell me about the chatbot project",
+        "What should I build for the FAQ chatbot?",
+        "Chatbot task requirements"
+      ]
+    },
+    {
+      "id": "account_001",
+      "question": "How do I contact CodeAlpha support?",
+      "answer": "You can reach CodeAlpha support through: Website: www.codealpha.tech, WhatsApp: +91 8052293611, or Email: services@codealpha.tech. We're here to help with any questions or issues!",
+      "category": "account",
+      "keywords": ["contact", "support", "help", "reach"],
+      "alternate_questions": [
+        "How can I get help?",
+        "What is the support contact?",
+        "How do I reach CodeAlpha?"
+      ]
+    },
+    {
+      "id": "account_002",
+      "question": "Can I get a recommendation letter?",
+      "answer": "Yes! Letter of Recommendation is provided based on your performance during the internship. Complete your tasks with high quality, meet deadlines, and demonstrate strong technical skills to qualify for a recommendation letter.",
+      "category": "account",
+      "keywords": ["recommendation", "letter", "lor", "reference"],
+      "alternate_questions": [
+        "Will I get a recommendation letter?",
+        "How do I get a LOR?",
+        "Can you provide references?"
+      ]
+    },
+    {
+      "id": "product_001",
+      "question": "What tasks are available in the AI internship?",
+      "answer": "The AI internship offers 4 tasks: (1) Language Translation Tool, (2) Chatbot for FAQs, (3) Music Generation with AI, and (4) Object Detection and Tracking. You need to complete any 2 or 3 of these tasks.",
+      "category": "product",
+      "keywords": ["tasks", "projects", "ai", "available"],
+      "alternate_questions": [
+        "What are the AI internship tasks?",
+        "Which projects can I choose?",
+        "List all available tasks"
+      ]
+    },
+    {
+      "id": "product_002",
+      "question": "What is the time frame for completion?",
+      "answer": "You need to complete your assigned projects within the mentioned time frame in your offer letter. Make sure to plan your work accordingly and submit before the deadline to receive your certificates.",
+      "category": "product",
+      "keywords": ["deadline", "time", "duration", "completion"],
+      "alternate_questions": [
+        "How long do I have to complete tasks?",
+        "What is the deadline?",
+        "How much time do I get?"
+      ]
+    },
+    {
+      "id": "general_001",
+      "question": "Do I need prior AI experience?",
+      "answer": "While prior AI experience is helpful, it's not mandatory. The internship is designed to provide hands-on learning. You should have basic Python knowledge and willingness to learn. We provide mentorship and resources to help you succeed.",
+      "category": "general",
+      "keywords": ["experience", "prerequisite", "requirement", "beginner"],
+      "alternate_questions": [
+        "Is AI experience required?",
+        "Can beginners apply?",
+        "What are the prerequisites?"
+      ]
+    },
+    {
+      "id": "general_002",
+      "question": "Will I get job placement support?",
+      "answer": "Yes! CodeAlpha provides job opportunities and placement support to successful interns. Based on your performance, you may receive direct job offers or assistance with job applications, resume building, and interview preparation.",
+      "category": "general",
+      "keywords": ["job", "placement", "career", "employment"],
+      "alternate_questions": [
+        "Can you help me find a job?",
+        "Do you offer placements?",
+        "Will I get hired after the internship?"
+      ]
+    },
+    {
+      "id": "tech_005",
+      "question": "Should I use version control?",
+      "answer": "Yes, absolutely! You must use Git and GitHub for version control. Create a repository named 'CodeAlpha_ProjectName', commit your code regularly with meaningful messages, and maintain a clean commit history. This is essential for submission.",
+      "category": "technical",
+      "keywords": ["git", "github", "version", "control"],
+      "alternate_questions": [
+        "Do I need to use Git?",
+        "Is GitHub required?",
+        "How should I manage my code versions?"
+      ]
+    },
+    {
+      "id": "tech_006",
+      "question": "What should I include in my LinkedIn post?",
+      "answer": "Your LinkedIn post should include: a video explanation of your project, key features and technologies used, challenges faced and solutions, link to your GitHub repository, and tag @CodeAlpha. Make it professional and engaging!",
+      "category": "technical",
+      "keywords": ["linkedin", "post", "video", "social"],
+      "alternate_questions": [
+        "How do I post on LinkedIn?",
+        "What should my video include?",
+        "LinkedIn posting requirements"
+      ]
+    },
+    {
+      "id": "billing_001",
+      "question": "Is the internship paid?",
+      "answer": "The internship program focuses on providing valuable learning experience, certificates, and career support. For specific questions about compensation or stipends, please contact CodeAlpha support at services@codealpha.tech.",
+      "category": "billing",
+      "keywords": ["paid", "salary", "stipend", "compensation"],
+      "alternate_questions": [
+        "Will I get paid?",
+        "Is there a stipend?",
+        "Do you offer compensation?"
+      ]
+    },
+    {
+      "id": "billing_002",
+      "question": "Is there any registration fee?",
+      "answer": "For information about registration or program fees, please visit www.codealpha.tech or contact our support team at services@codealpha.tech or WhatsApp +91 8052293611. They'll provide you with detailed information.",
+      "category": "billing",
+      "keywords": ["fee", "cost", "registration", "payment"],
+      "alternate_questions": [
+        "Do I need to pay anything?",
+        "What is the cost?",
+        "Are there any fees?"
+      ]
+    }
+  ]
+}
